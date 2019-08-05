@@ -1,0 +1,19 @@
+[{
+    "name":"VUE",
+    "open":false,
+    "flag":false,
+    "color":"red",
+    "id":0
+},{
+    "name":"React",
+    "open":false,
+    "flag":false,
+    "color":"pink",
+    "id":1
+},{
+    "name":"项目整合",
+    "open":false,
+    "flag":false,
+    "color":"blue",
+    "id":2
+}]
